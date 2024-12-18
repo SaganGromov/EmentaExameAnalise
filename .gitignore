@@ -1,3 +1,9 @@
+# Ignore all PDF files
+*.pdf
+
+# Exclude main.pdf from being ignored
+!main.pdf
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
